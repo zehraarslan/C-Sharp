@@ -1,0 +1,15 @@
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\bin\Debug\net7.0\Donguler.exe
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\bin\Debug\net7.0\Donguler.deps.json
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\bin\Debug\net7.0\Donguler.runtimeconfig.json
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\bin\Debug\net7.0\Donguler.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\bin\Debug\net7.0\Donguler.pdb
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.AssemblyInfo.cs
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\refint\Donguler.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.pdb
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\Donguler.genruntimeconfig.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\Donguler\obj\Debug\net7.0\ref\Donguler.dll

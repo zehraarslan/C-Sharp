@@ -1,0 +1,15 @@
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.exe
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.deps.json
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.runtimeconfig.json
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\bin\Debug\net7.0\ClassMetotDemo.pdb
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.csproj.AssemblyReference.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\refint\ClassMetotDemo.dll
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.pdb
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\zaars\OneDrive\Masaüstü\C#\KampIntro\ClassMetotDemo\obj\Debug\net7.0\ref\ClassMetotDemo.dll
