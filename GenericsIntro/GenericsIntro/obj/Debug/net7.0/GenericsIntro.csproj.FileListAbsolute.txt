@@ -1,0 +1,15 @@
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.csproj.AssemblyReference.cache
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.AssemblyInfo.cs
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.csproj.CoreCompileInputs.cache
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\bin\Debug\net7.0\GenericsIntro.exe
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\bin\Debug\net7.0\GenericsIntro.deps.json
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\bin\Debug\net7.0\GenericsIntro.runtimeconfig.json
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\bin\Debug\net7.0\GenericsIntro.dll
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\bin\Debug\net7.0\GenericsIntro.pdb
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.dll
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\refint\GenericsIntro.dll
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.pdb
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\GenericsIntro.genruntimeconfig.cache
+C:\Users\zaars\source\repos\OOP1\GenericsIntro\GenericsIntro\obj\Debug\net7.0\ref\GenericsIntro.dll

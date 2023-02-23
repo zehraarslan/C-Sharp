@@ -1,0 +1,15 @@
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\bin\Debug\net7.0\Koleksiyonlar.exe
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\bin\Debug\net7.0\Koleksiyonlar.deps.json
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\bin\Debug\net7.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\bin\Debug\net7.0\Koleksiyonlar.dll
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\bin\Debug\net7.0\Koleksiyonlar.pdb
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.dll
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\refint\Koleksiyonlar.dll
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.pdb
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\Koleksiyonlar.genruntimeconfig.cache
+C:\Users\zaars\source\repos\OOP1\Koleksiyonlar\obj\Debug\net7.0\ref\Koleksiyonlar.dll

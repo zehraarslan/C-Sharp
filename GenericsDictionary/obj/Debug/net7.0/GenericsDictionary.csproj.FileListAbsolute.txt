@@ -1,0 +1,15 @@
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\bin\Debug\net7.0\GenericsDictionary.exe
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\bin\Debug\net7.0\GenericsDictionary.deps.json
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\bin\Debug\net7.0\GenericsDictionary.runtimeconfig.json
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\bin\Debug\net7.0\GenericsDictionary.dll
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\bin\Debug\net7.0\GenericsDictionary.pdb
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.csproj.AssemblyReference.cache
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.AssemblyInfoInputs.cache
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.AssemblyInfo.cs
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.dll
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\refint\GenericsDictionary.dll
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.pdb
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\GenericsDictionary.genruntimeconfig.cache
+C:\Users\zaars\source\repos\OOP1\GenericsDictionary\obj\Debug\net7.0\ref\GenericsDictionary.dll
