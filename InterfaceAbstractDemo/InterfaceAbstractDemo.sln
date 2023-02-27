@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceAbstractDemo", "InterfaceAbstractDemo\InterfaceAbstractDemo.csproj", "{164D839A-EA81-4CD2-9F08-C4A0878FA72F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamerProject", "..\GamerProject\GamerProject.csproj", "{A6D4885C-651A-4C7A-B20D-83386E07E5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164D839A-EA81-4CD2-9F08-C4A0878FA72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164D839A-EA81-4CD2-9F08-C4A0878FA72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164D839A-EA81-4CD2-9F08-C4A0878FA72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164D839A-EA81-4CD2-9F08-C4A0878FA72F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D4885C-651A-4C7A-B20D-83386E07E5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D4885C-651A-4C7A-B20D-83386E07E5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D4885C-651A-4C7A-B20D-83386E07E5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D4885C-651A-4C7A-B20D-83386E07E5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F21EDF88-0D68-4FFD-9F26-8F7051D41B76}
+	EndGlobalSection
+EndGlobal
